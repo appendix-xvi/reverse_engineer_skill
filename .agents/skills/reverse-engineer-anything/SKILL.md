@@ -328,6 +328,8 @@ answered, partially answered, or unresolved based on its evidence; keep
 bounded negative searches bounded, and do not describe a broad investigation
 as complete while required questions remain open.
 
+For native game-bot construction (memory offsets, packet schemas, state machines, patch recovery), also read [game-bot-engineering](../game-bot-engineering/SKILL.md). Keep REA evidence acquisition separate from bot implementation.
+
 ## Read only the relevant guide
 
 - External tools, authoritative specifications, cross-tool validation, and research updates:
