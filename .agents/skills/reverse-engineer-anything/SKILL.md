@@ -332,6 +332,8 @@ as complete while required questions remain open.
 
 - External tools, authoritative specifications, cross-tool validation, and research updates:
   [references/external-methods-and-sources.md](references/external-methods-and-sources.md)
+- Specialist ELF, Mach-O, WebAssembly, game engine, firmware, fuzzing, and malware workflows:
+  [references/platform-specialists.md](references/platform-specialists.md)
 - Native binaries, managed assemblies, archives, and extraction:
   [references/native-and-artifacts.md](references/native-and-artifacts.md)
 - ASARs, extracted JavaScript, feature tracing, and version comparison:
