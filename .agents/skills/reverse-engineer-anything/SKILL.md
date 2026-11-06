@@ -330,6 +330,8 @@ as complete while required questions remain open.
 
 ## Read only the relevant guide
 
+- External tools, authoritative specifications, cross-tool validation, and research updates:
+  [references/external-methods-and-sources.md](references/external-methods-and-sources.md)
 - Native binaries, managed assemblies, archives, and extraction:
   [references/native-and-artifacts.md](references/native-and-artifacts.md)
 - ASARs, extracted JavaScript, feature tracing, and version comparison:
