@@ -34,6 +34,11 @@ The user allows understanding DATS as a reference but does **not** require copyi
 
 ## Acceptance checkpoints
 
+For implementation lessons recovered from the independent DMO bot, read
+[runtime validation lessons](../../game-bot-engineering/references/runtime-validation-lessons.md).
+That reference links the pinned project knowledge; it does not establish that
+the independent implementation was recovered from DATS.
+
 - Monster identity and selection match what the client actually holds.
 - HP/MP readings track controlled known changes without OCR/color dependencies.
 - Actions, cooldowns and state transitions are confirmed after execution rather than assumed from sent input.

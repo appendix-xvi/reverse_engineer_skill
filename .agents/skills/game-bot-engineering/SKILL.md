@@ -19,6 +19,10 @@ Build from the actual client/server artifacts and observed behavior. Read [sourc
 
 ## Architecture
 
+For restart/relocation failures, movable Quick Slots, buff confirmations,
+recorded routes or UI regressions, read
+[runtime validation lessons](references/runtime-validation-lessons.md).
+
 - **Adapter:** bounded memory/API/packet observations; no inferred authoritative game state.
 - **Decoder:** type-aware parsing and validated packet/message schema with version tags.
 - **World state:** timestamped entities, player state, map, inventory, quest flags, combat and connection state; handle stale/partial observations.
